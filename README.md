@@ -1,19 +1,19 @@
 # test-2
 
-#ciao
+<!-- #ciao -->
 
 #spero di aver capito
 
 #test3
 
-#si, ho capito
+<!-- #si, ho capito
 
-sisi
+sisi -->
 
 buongiorno
 
 buonasera  
 
-aia
+<!-- aia
 
-miao
+miao -->
